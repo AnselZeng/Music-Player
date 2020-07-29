@@ -8,4 +8,3 @@
 
 | [![Paused](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png)](http://videoblocks.com)  | [![Playing](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
