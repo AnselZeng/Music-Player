@@ -6,4 +6,7 @@
 
 **Illustrations:**
 
-![Paused](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png) ![Playing](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png)
+<p float="left">
+  <img src="/https://github.com/AnselZeng/Music-Player/blob/master/Paused.png" width="100" />
+  <img src="/https://github.com/AnselZeng/Music-Player/blob/master/Playing.png" width="100" /> 
+</p>
