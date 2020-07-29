@@ -9,6 +9,6 @@
 | [![Playing](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png)] | [![Paused](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png)] |
 |:---:|:---:|:---:|
 
-| [![VideoBlocks](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| [![VideoBlocks](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png)]()  | [![AudioBlocks](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png)]() |
 |:---:|:---:|:---:|
 | http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
