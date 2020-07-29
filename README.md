@@ -6,7 +6,7 @@
 
 **Illustrations:**
 
-<p float="left">
-  <img src="/https://github.com/AnselZeng/Music-Player/blob/master/Paused.png" width="100" />
-  <img src="/https://github.com/AnselZeng/Music-Player/blob/master/Playing.png" width="100" /> 
-</p>
+<tr>
+  <td><img src="https://github.com/AnselZeng/Music-Player/blob/master/Paused.png"></td>
+  <td><img src="https://github.com/AnselZeng/Music-Player/blob/master/Playing.png"></td>
+</tr>
