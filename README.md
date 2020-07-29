@@ -6,5 +6,5 @@
 
 **Illustrations:**
 
-| [![Paused](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png)](http://videoblocks.com)  | [![Playing](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png)] |
+| ![Paused](https://github.com/AnselZeng/Music-Player/blob/master/Paused.png) | ![Playing](https://github.com/AnselZeng/Music-Player/blob/master/Playing.png) |
 |:---:|:---:|
