@@ -1,4 +1,4 @@
-music_name = "The Less I Know The Better.mp3"
+music_name = "songs/The Less I Know The Better.mp3"
 let play_btn = document.querySelector("#play");
 let rewind_btn = document.querySelector("#rewind");
 let forward_btn = document.querySelector("#forward");
@@ -20,19 +20,19 @@ function playSong(){
             isPlaying = true;
             total_time = song.duration;
             range.max = total_time;
-            play_img.src = "pause.png";
+            play_img.src = "icons/pause.png";
         }
         else{
             song.pause();
             isPlaying = false;
-            play_img.src = "play.png";
+            play_img.src = "icons/play.png";
         }
         song.addEventListener('ended',function(){
             song.currentTime = 0
             song.pause();
             isPlaying = false;
             range.value = 0;
-            play_img.src = "play.png";
+            play_img.src = "icons/play.png";
         })
         song.addEventListener('timeupdate',function(){
             range.value = song.currentTime;
